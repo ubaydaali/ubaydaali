@@ -25,7 +25,6 @@
 ---
 
 ### 🛠️ المشاريع المختارة | Featured Projects
-لإظهار مشاريعك "تلقائياً" هنا، يمكنك استخدام خاصية **Pinned Repositories** في جيتهاب، ولكن لظهورها داخل هذا الملف بشكل أنيق، إليك أهم مشاريعك الحالية:
 
 * **🛡️ [MANTICORE AML](https://github.com/ubaydaali/-MANTICORE-AML-Fraud-Detection-Switch)**: Hybrid COBOL+Python Anti-Money Laundering Engine.
 * **⚡ [KRONOS HFT](https://github.com/ubaydaali/High-Frequency-Trading---HFT)**: Zero-Latency High-Frequency Trading Core in Ada.
