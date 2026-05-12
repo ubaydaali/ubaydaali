@@ -15,7 +15,6 @@
 ---
 
 ### 📊 إحصائيات البرمجيات | Software Engineering Stats
-هذه القسم يتحدث تلقائياً ليعرض قوتك البرمجية:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubaydaali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
