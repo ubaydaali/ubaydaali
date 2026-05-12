@@ -14,15 +14,6 @@
 
 ---
 
-### 📊 إحصائيات البرمجيات | Software Engineering Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ubaydaali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaydaali&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
 ### 🛠️ المشاريع المختارة | Featured Projects
 
 * **🛡️ [MANTICORE AML](https://github.com/ubaydaali/-MANTICORE-AML-Fraud-Detection-Switch)**: Hybrid COBOL+Python Anti-Money Laundering Engine.
